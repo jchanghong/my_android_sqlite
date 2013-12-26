@@ -28,8 +28,8 @@ import java.util.Date;
  * @author michael Young (www.YangFuhai.com)
  * @version 1.0
  * @title 字段操作工具类
- * @description 描述
- * @company 探索者网络工作室(www.tsz.net)
+ * @description 描述 changhong
+ * @cmpany 探索者网络工作室(www.tsz.net)
  * @created 2012-10-10
  */
 public class FieldUtils {
