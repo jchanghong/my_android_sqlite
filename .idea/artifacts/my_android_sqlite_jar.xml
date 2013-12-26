@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="my_android_sqlite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/my_android_sqlite_jar</output-path>
+    <root id="archive" name="my_android_sqlite.jar">
+      <element id="module-output" name="my_android_sqlite" />
+    </root>
+  </artifact>
+</component>
